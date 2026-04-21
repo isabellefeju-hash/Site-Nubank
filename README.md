@@ -29,7 +29,7 @@ O projeto inclui um componente visual que replica o famoso cartão roxinho
 Clone este repositório:
 
 Bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/isabellefeju-hash/Site-Nubank.git
 Navegue até a pasta do projeto:
 
 Bash
