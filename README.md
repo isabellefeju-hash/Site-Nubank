@@ -57,6 +57,15 @@ O cartão de crédito foi construído utilizando apenas CSS, sem dependência de
     Basta abrir o `index.html` em qualquer navegador moderno.
 
 ---
+## 🤝 Créditos
+
+Projeto desenvolvido por 💜 Isabelle Fernandes.
+
+Baseado na identidade visual do Nubank para fins de portfólio acadêmico.
+
+© 2026 Nu Pagamentos S.A - Todos os direitos reservados.
+
+---
 
 ## 📁 Estrutura de Diretórios
 
@@ -66,10 +75,3 @@ O cartão de crédito foi construído utilizando apenas CSS, sem dependência de
 ├── script.js     # Lógica e Interações
 └── style.css     # Estilização e Design System
 
-## 🤝 Créditos
-
-Projeto desenvolvido por 💜 Isabelle Fernandes.
-
-Baseado na identidade visual do Nubank para fins de portfólio acadêmico.
-
-© 2026 Nu Pagamentos S.A - Todos os direitos reservados.
