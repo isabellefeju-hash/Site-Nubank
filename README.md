@@ -1,51 +1,75 @@
-🚀 Nubank Landing Page Clone
-Uma interface moderna e responsiva inspirada na landing page do Nubank, desenvolvida para fins de estudo de front-end. O projeto simula a página principal com foco em design limpo, interatividade e experiência do usuário.
+# 💜 Nubank Landing Page Clone
 
-🛠️ Tecnologias Utilizadas
-HTML5: Estruturação semântica do conteúdo.
+![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-CSS3: Estilização com o uso de Variáveis (Custom Properties), Flexbox e Gradients.
+Uma interface de alta fidelidade inspirada na identidade visual do **Nubank**, focada em design limpo, responsividade e interatividade moderna.
 
-JavaScript (Vanilla): Lógica para manipulação do DOM e máscaras dinâmicas.
+---
 
-Font Awesome: Biblioteca de ícones para redes sociais.
+## 🚀 Sobre o Projeto
 
-Google Fonts: Tipografia para manter a identidade visual.
+Este projeto foi desenvolvido para demonstrar habilidades em **Front-end moderno**. Ele utiliza técnicas de Glassmorphism no cabeçalho, manipulação dinâmica do DOM para eventos de scroll e tratamento de dados em tempo real com máscaras de entrada.
 
-✨ Funcionalidades
-Header Inteligente: O cabeçalho altera sua aparência (cor de fundo e sombra) automaticamente ao realizar o scroll da página.
+### ✨ Funcionalidades principais:
 
-Máscara de CPF: Validação visual em tempo real no campo de entrada, formatando automaticamente para o padrão 000.000.000-00.
+* **Header Glassmorphism:** O menu superior detecta o scroll do usuário e altera sua transparência e sombra dinamicamente.
+* **Máscara de CPF Inteligente:** Lógica em JavaScript que formata o input do usuário em tempo real (000.000.000-00) usando Regex.
+* **UI/UX Premium:** Design baseado no "roxinho", com gradientes profundos, tipografia limpa e elementos visuais que remetem ao app oficial.
+* **Seções de Conversão:** Estrutura otimizada com CTAs (Call to Action) estratégicos para simular um ambiente de conversão real.
 
-Design Responsivo: Layout adaptado para diferentes tamanhos de tela.
+---
 
-Componente de Cartão: Simulação visual de um cartão de crédito físico usando puramente CSS.
+## 🛠️ Tecnologias Utilizadas
 
-📸 Demonstração
-O Cartão que você controla
-O projeto inclui um componente visual que replica o famoso cartão roxinho
+| Ferramenta | Descrição |
+| :--- | :--- |
+| **HTML5** | Estruturação semântica e acessibilidade. |
+| **CSS3** | Layouts com Flexbox, Variáveis globais e animações de transição. |
+| **JavaScript** | Lógica de scroll e sanitização de inputs de formulário. |
+| **Font Awesome** | Ícones vetoriais para interface e redes sociais. |
 
-🚀 Como executar o projeto
-Clone este repositório:
+---
 
-Bash
-git clone https://github.com/isabellefeju-hash/Site-Nubank.git
-Navegue até a pasta do projeto:
+## 📸 Demonstração Visual
 
-Bash
-cd nome-do-repositorio
-Abra o arquivo index.html no seu navegador de preferência ou utilize a extensão Live Server no VS Code.
+### Componente de Cartão (CSS Puro)
+O cartão de crédito foi construído utilizando apenas CSS, sem dependência de imagens externas para o corpo, garantindo performance e escalabilidade.
 
-📝 Estrutura de Arquivos
-index.html: Estrutura principal da página.
+> **Destaque:** O efeito de flutuação e sombra suave foi alcançado com `box-shadow: 0 20px 40px rgba(130, 10, 209, 0.3);`.
 
-style.css: Estilização completa, cores e animações.
+---
 
-script.js: Lógica do cabeçalho e máscara do formulário.
+## ⚙️ Como executar
 
-/img: Pasta contendo as imagens e assets do projeto.
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/nubank-clone.git](https://github.com/seu-usuario/nubank-clone.git)
+    ```
+2.  **Navegue até a pasta:**
+    ```bash
+    cd nubank-clone
+    ```
+3.  **Abra o arquivo principal:**
+    Basta abrir o `index.html` em qualquer navegador moderno.
 
-📄 Licença
-Este projeto é apenas para fins educacionais. A marca, logo e identidade visual pertencem ao Nubank.
+---
 
-Desenvolvido com 💜 por Isabelle Fernandes.
+## 📁 Estrutura de Diretórios
+
+```text
+├── img/          # Assets Visuais
+├── index.html    # Estrutura da Página
+├── script.js     # Lógica e Interações
+└── style.css     # Estilização e Design System
+
+## 🤝 Créditos
+
+Projeto desenvolvido por 💜 Isabelle Fernandes.
+
+Baseado na identidade visual do Nubank para fins de portfólio acadêmico.
+
+© 2026 Nu Pagamentos S.A - Todos os direitos reservados.
